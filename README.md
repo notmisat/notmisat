@@ -18,10 +18,10 @@
 <ul>
   <li>🏗️ <b>Arquitetura & Desenvolvimento Full-Stack</b>: Construção de ecossistemas com <b>Python</b>, <b>React</b> e <b>TypeScript</b>.</li>
   <li>🗄️ <b>Bancos de Dados Relacionais</b>: Modelagem de dados, administração e otimização de consultas em bancos relacionais.</li>
-  <li>🔌 <b>APIs RESTful</b>: Concepção, desenvolvimento e integração de rotas e microsserviços robustos.</li>
-  <li>🔐 <b>Segurança & Controle de Acesso</b>: Implementação de permissões baseadas em funções (<b>RBAC</b> - <i>Role-Based Access Control</i>).</li>
+  <li>🔌 <b>APIs RESTful</b>: Desenvolvimento e integração de rotas.</li>
+  <li>🔐 <b>Segurança & Controle de Acesso</b>: Implementação de permissões baseadas em funções <b>RBAC</b>.</li>
   <li>🎨 <b>Interface & UX</b>: Criação de painéis administrativos focados na usabilidade, produtividade e experiência do usuário.</li>
-  <li>🛠️ <b>DevOps & Qualidade</b>: Versionamento de código com <b>Git</b>, análise de logs, troubleshooting e participação ativa em decisões arquiteturais da equipe.</li>
+  <li>🛠️ <b>DevOps & Qualidade</b>: Versionamento de código com <b>Git</b>, análise de logs, troubleshooting e participação de decisões arquiteturais em equipe.</li>
 </ul>
 
 <br/>
