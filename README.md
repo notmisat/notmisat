@@ -57,7 +57,7 @@
       </tr>
       <tr>
         <td><b>Ferramentas & Outros</b></td>
-        <td><code>Git</code> <code>GitHub</code> <code>Hardware & Troubleshooting</code> <code>Edição de Mídia (Vídeo/Imagem)</code></td>
+        <td><code>Git</code> <code>GitHub</code> <code>Hardware</code> <code>Troubleshooting</code></td>
       </tr>
     </tbody>
   </table>
