@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá, me chamo Guilherme! 👋</h1>
-  <p><b>Desenvolvedor Full-Stack | Python, React & TypeScript | Bancos de Dados SQL</b></p>
+  <h1>Olá, me chamo Guilherme! :)) </h1>
+  <p><b>Desenvolvedor Full-Stack Junior | Python, React & TypeScript | Bancos de Dados SQL</b></p>
 
   <p>
     <a href="https://www.linkedin.com/in/guilherme-rodrigues-200278258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -11,30 +11,18 @@
 
 ---
 
-### 🚀 Sobre Mim
+  💼 Experiência
 
-Minha jornada na tecnologia começou cedo, desenvolvendo bases sólidas em **hardware e software** durante os ensinos fundamental e médio. Ao longo dos anos, expandi minhas capacidades técnicas e criativas — gerenciando estúdio de gravação e desenvolvendo habilidades em **edição de imagens e vídeos**.
-
-Atualmente, tenho foco em **Desenvolvimento Full-Stack** e **Engenharia de Dados**, liderando a arquitetura e desenvolvimento de soluções corporativas de alto impacto.
-
----
-
-### 💼 Experiência & Atuação Principal
-
-#### ⚡ **Líder de Desenvolvimento Full-Stack** — *Portal Corporativo Interno*
-
-Lidero o desenvolvimento, estruturação e evolução técnica de um portal corporativo interno:
-
-* 🏗️ **Arquitetura & Desenvolvimento Full-Stack**: Construção de ecossistemas com **Python**, **React** e **TypeScript**.
-* 🗄️ **Bancos de Dados Relacionais**: Modelagem de dados, administração e otimização de consultas em bancos relacionais.
-* 🔌 **APIs RESTful**: Concepção, desenvolvimento e integração de rotas e microsserviços robustos.
-* 🔐 **Segurança & Controle de Acesso**: Implementação de permissões baseadas em funções (**RBAC** - *Role-Based Access Control*).
-* 🎨 **Interface & UX**: Criação de painéis administrativos focados na usabilidade, produtividade e experiência do usuário.
-* 🛠️ **DevOps & Qualidade**: Versionamento de código com **Git**, análise de logs, troubleshooting e participação ativa em decisões arquiteturais da equipe.
+🏗️ **Arquitetura & Desenvolvimento Full-Stack**: Construção de ecossistemas com **Python**, **React** e **TypeScript**.
+🗄️ **Bancos de Dados Relacionais**: Modelagem de dados, administração e otimização de consultas em bancos relacionais.
+🔌 **APIs RESTful**: Concepção, desenvolvimento e integração de rotas e microsserviços robustos.
+🔐 **Segurança & Controle de Acesso**: Implementação de permissões baseadas em funções (**RBAC** - *Role-Based Access Control*).
+🎨 **Interface & UX**: Criação de painéis administrativos focados na usabilidade, produtividade e experiência do usuário.
+🛠️ **DevOps & Qualidade**: Versionamento de código com **Git**, análise de logs, troubleshooting e participação ativa em decisões arquiteturais da equipe.
 
 ---
 
-### 🛠️ Habilidades Técnicas
+  🛠️ Habilidades Técnicas
 
 <table>
   <thead>
@@ -69,7 +57,7 @@ Lidero o desenvolvimento, estruturação e evolução técnica de um portal corp
 
 ---
 
-### 📊 Estatísticas no GitHub
+  📊 Estatísticas no GitHub
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=notmisat&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
@@ -79,14 +67,14 @@ Lidero o desenvolvimento, estruturação e evolução técnica de um portal corp
 
 ---
 
-### 📫 Contatos
+  📫 Contatos
 
-* 💼 **LinkedIn**: [Guilherme Rodrigues](https://www.linkedin.com/in/guilherme-rodrigues-200278258/)
-* 📧 **Email**: [guirodriguess95@gmail.com](mailto:guirodriguess95@gmail.com)
-* 🐙 **GitHub**: [github.com/notmisat](https://github.com/notmisat)
+💼 **LinkedIn**: [Guilherme Rodrigues](https://www.linkedin.com/in/guilherme-rodrigues-200278258/)
+📧 **Email**: [guirodriguess95@gmail.com](mailto:guirodriguess95@gmail.com)
+🐙 **GitHub**: [github.com/notmisat](https://github.com/notmisat)
 
 ---
 
 <div align="center">
-  <sub>Confie em si mesmo! 🚀</sub>
+  <sub>Acredite em seu potencial! 🚀</sub>
 </div>
