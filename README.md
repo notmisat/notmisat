@@ -69,22 +69,11 @@
 
 <h2 align="center">📊 Estatísticas no GitHub</h2>
 
-<div align="center">
-  <a href="https://github.com/notmisat">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-      <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    </picture>
-  </a>
-  <a href="https://github.com/notmisat">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=default" />
-      <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=default" alt="Linguagens Mais Utilizadas" />
-    </picture>
-  </a>
-</div>
+<p align="center">
+  <a href="https://github.com/notmisat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" /><img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" /></picture></a>
+  &nbsp;
+  <a href="https://github.com/notmisat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=github_dark" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=github_light" /><img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=github_light" alt="Linguagens Mais Utilizadas" /></picture></a>
+</p>
 
 <br/>
 
