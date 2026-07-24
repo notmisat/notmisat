@@ -71,10 +71,18 @@
 
 <div align="center">
   <a href="https://github.com/notmisat">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+      <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    </picture>
   </a>
   <a href="https://github.com/notmisat">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=default" />
+      <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=default" alt="Linguagens Mais Utilizadas" />
+    </picture>
   </a>
 </div>
 
