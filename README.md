@@ -13,12 +13,12 @@
 
   💼 Experiência
 
-🏗️ **Arquitetura & Desenvolvimento Full-Stack**: Construção de ecossistemas com **Python**, **React** e **TypeScript**.
-🗄️ **Bancos de Dados Relacionais**: Modelagem de dados, administração e otimização de consultas em bancos relacionais.
-🔌 **APIs RESTful**: Concepção, desenvolvimento e integração de rotas e microsserviços robustos.
-🔐 **Segurança & Controle de Acesso**: Implementação de permissões baseadas em funções (**RBAC** - *Role-Based Access Control*).
-🎨 **Interface & UX**: Criação de painéis administrativos focados na usabilidade, produtividade e experiência do usuário.
-🛠️ **DevOps & Qualidade**: Versionamento de código com **Git**, análise de logs, troubleshooting e participação ativa em decisões arquiteturais da equipe.
+* 🏗️ **Arquitetura & Desenvolvimento Full-Stack**: Construção de ecossistemas com **Python**, **React** e **TypeScript**.
+* 🗄️ **Bancos de Dados Relacionais**: Modelagem de dados, administração e otimização de consultas em bancos relacionais.
+* 🔌 **APIs RESTful**: Concepção, desenvolvimento e integração de rotas e microsserviços robustos.
+* 🔐 **Segurança & Controle de Acesso**: Implementação de permissões baseadas em funções (**RBAC** - *Role-Based Access Control*).
+* 🎨 **Interface & UX**: Criação de painéis administrativos focados na usabilidade, produtividade e experiência do usuário.
+* 🛠️ **DevOps & Qualidade**: Versionamento de código com **Git**, análise de logs, troubleshooting e participação ativa em decisões arquiteturais da equipe.
 
 ---
 
