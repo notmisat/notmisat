@@ -5,7 +5,7 @@
   <p>
     <a href="https://www.linkedin.com/in/guilherme-rodrigues-200278258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:guirodriguess95@gmail.com"><img src="https://img.shields.io/badge/Email-guirodriguess95%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/notmisat"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://github.com/guilh6rme"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 </div>
 
@@ -55,9 +55,9 @@
 <h2 align="center">📊 Estatísticas no GitHub</h2>
 
 <p align="center">
-  <a href="https://github.com/notmisat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" /><img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=notmisat&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" /></picture></a>
+  <a href="https://github.com/guilh6rme"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=guilh6rme&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=guilh6rme&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" /><img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=guilh6rme&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" /></picture></a>
   &nbsp;
-  <a href="https://github.com/notmisat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=github_dark" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=github_light" /><img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=notmisat&layout=compact&theme=github_light" alt="Linguagens Mais Utilizadas" /></picture></a>
+  <a href="https://github.com/guilh6rme"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guilh6rme&layout=compact&theme=github_dark" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guilh6rme&layout=compact&theme=github_light" /><img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guilh6rme&layout=compact&theme=github_light" alt="Linguagens Mais Utilizadas" /></picture></a>
 </p>
 
 <br/>
@@ -70,7 +70,7 @@
   <p>
     💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/guilherme-rodrigues-200278258/">Guilherme Rodrigues</a> &nbsp;|&nbsp;
     📧 <b>Email:</b> <a href="mailto:guirodriguess95@gmail.com">guirodriguess95@gmail.com</a> &nbsp;|&nbsp;
-    🐙 <b>GitHub:</b> <a href="https://github.com/notmisat">github.com/notmisat</a>
+    🐙 <b>GitHub:</b> <a href="https://github.com/guilh6rme">github.com/guilh6rme</a>
   </p>
 </div>
 
